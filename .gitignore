@@ -17,3 +17,7 @@ node_modules/
 FakesAssemblies/
 obj
 Solution/.vs/config/applicationhost.config
+.vs
+/Warehouse/.vs
+/Warehouse/Warehouse/bin
+/Warehouse/Warehouse/obj
